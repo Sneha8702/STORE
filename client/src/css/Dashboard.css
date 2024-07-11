@@ -1,0 +1,6 @@
+.dashboard-image{
+    flex:1;
+    background:url('Images/Home.jpg')center;
+    background-size:90%;
+    background-repeat:no-repeat;
+}
